@@ -18,76 +18,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 18,
-                  "endLine": 8,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3925",
-          "level": "warning",
-          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 18,
-                  "endLine": 8,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 12,
-                  "endLine": 8,
-                  "endColumn": 17
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 12,
-                  "endLine": 8,
-                  "endColumn": 17
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "Add 'System.SerializableAttribute' attribute on 'InsufficientAmountPeanuts' because it implements 'ISerializable'.",
-              "1": "Add a 'protected' constructor 'InsufficientAmountPeanuts(SerializationInfo, StreamingContext)'."
-            }
-          }
-        },
-        {
-          "ruleId": "S3376",
-          "level": "warning",
-          "message": "Make this class name end with 'Exception'.",
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/Empty.cs",
                 "region": {
                   "startLine": 8,
@@ -158,55 +88,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InvalidOperationPeanutException.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 18,
-                  "endLine": 8,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InvalidOperationPeanutException.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 12,
-                  "endLine": 8,
-                  "endColumn": 17
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InvalidOperationPeanutException.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 12,
-                  "endLine": 8,
-                  "endColumn": 17
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "Add 'System.SerializableAttribute' attribute on 'InvalidOperationPeanutException' because it implements 'ISerializable'.",
-              "1": "Add a 'protected' constructor 'InvalidOperationPeanutException(SerializationInfo, StreamingContext)'."
-            }
-          }
-        },
-        {
-          "ruleId": "S3925",
-          "level": "warning",
-          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/ClientExistException.cs",
                 "region": {
                   "startLine": 8,
@@ -250,18 +131,39 @@
           }
         },
         {
+          "ruleId": "S3376",
+          "level": "warning",
+          "message": "Make this class name end with 'Exception'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18,
+                  "endLine": 8,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3925",
           "level": "warning",
           "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundClientException.cs",
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 18,
                   "endLine": 8,
-                  "endColumn": 41
+                  "endColumn": 43
                 }
               }
             }
@@ -269,7 +171,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundClientException.cs",
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 12,
@@ -280,7 +182,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundClientException.cs",
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InsufficientAmountPeanuts.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 12,
@@ -293,8 +195,8 @@
           "properties": {
             "warningLevel": 1,
             "customProperties": {
-              "0": "Add 'System.SerializableAttribute' attribute on 'NotFoundClientException' because it implements 'ISerializable'.",
-              "1": "Add a 'protected' constructor 'NotFoundClientException(SerializationInfo, StreamingContext)'."
+              "0": "Add 'System.SerializableAttribute' attribute on 'InsufficientAmountPeanuts' because it implements 'ISerializable'.",
+              "1": "Add a 'protected' constructor 'InsufficientAmountPeanuts(SerializationInfo, StreamingContext)'."
             }
           }
         },
@@ -354,6 +256,55 @@
           "locations": [
             {
               "resultFile": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InvalidOperationPeanutException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18,
+                  "endLine": 8,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InvalidOperationPeanutException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 12,
+                  "endLine": 8,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/InvalidOperationPeanutException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 12,
+                  "endLine": 8,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'InvalidOperationPeanutException' because it implements 'ISerializable'.",
+              "1": "Add a 'protected' constructor 'InvalidOperationPeanutException(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
                 "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundPeanutException.cs",
                 "region": {
                   "startLine": 8,
@@ -397,24 +348,52 @@
           }
         },
         {
-          "ruleId": "S1118",
+          "ruleId": "S3925",
           "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Program.cs",
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundClientException.cs",
                 "region": {
-                  "startLine": 12,
+                  "startLine": 8,
                   "startColumn": 18,
-                  "endLine": 12,
-                  "endColumn": 25
+                  "endLine": 8,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundClientException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 12,
+                  "endLine": 8,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Exceptions/NotFoundClientException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 12,
+                  "endLine": 8,
+                  "endColumn": 17
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'NotFoundClientException' because it implements 'ISerializable'.",
+              "1": "Add a 'protected' constructor 'NotFoundClientException(SerializationInfo, StreamingContext)'."
+            }
           }
         },
         {
@@ -460,6 +439,27 @@
           }
         },
         {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Program.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S2933",
           "level": "warning",
           "message": "Make '_peanutRepository' 'readonly'.",
@@ -493,27 +493,6 @@
                   "startColumn": 25,
                   "endLine": 16,
                   "endColumn": 32
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'roleManager' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/Security/UserService.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 43,
-                  "endLine": 18,
-                  "endColumn": 54
                 }
               }
             }
@@ -592,48 +571,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/PeanutService.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 19,
-                  "endLine": 38,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S112",
-          "level": "warning",
-          "message": "'System.Exception' should not be thrown by user code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/PeanutService.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 23,
-                  "endLine": 48,
-                  "endColumn": 54
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S112",
-          "level": "warning",
-          "message": "'System.Exception' should not be thrown by user code.",
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/ClientService.cs",
                 "region": {
                   "startLine": 91,
@@ -672,16 +609,58 @@
         {
           "ruleId": "S112",
           "level": "warning",
-          "message": "'System.NullReferenceException' should not be thrown by user code.",
+          "message": "'System.Exception' should not be thrown by user code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/Security/UserService.cs",
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/PeanutService.cs",
                 "region": {
-                  "startLine": 88,
+                  "startLine": 38,
+                  "startColumn": 19,
+                  "endLine": 38,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/PeanutService.cs",
+                "region": {
+                  "startLine": 48,
                   "startColumn": 23,
-                  "endLine": 88,
-                  "endColumn": 66
+                  "endLine": 48,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'client'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/ClientService.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 17,
+                  "endLine": 107,
+                  "endColumn": 23
                 }
               }
             }
@@ -712,18 +691,39 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S112",
           "level": "warning",
-          "message": "Remove the unused local variable 'client'.",
+          "message": "'System.NullReferenceException' should not be thrown by user code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/ClientService.cs",
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Services/Security/UserService.cs",
                 "region": {
-                  "startLine": 107,
-                  "startColumn": 17,
-                  "endLine": 107,
-                  "endColumn": 23
+                  "startLine": 88,
+                  "startColumn": 23,
+                  "endLine": 88,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5122",
+          "level": "warning",
+          "message": "Make sure this permissive CORS policy is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Startup.cs",
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 42,
+                  "endLine": 94,
+                  "endColumn": 66
                 }
               }
             }
@@ -800,27 +800,6 @@
                   "startColumn": 13,
                   "endLine": 172,
                   "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S5122",
-          "level": "warning",
-          "message": "Make sure this permissive CORS policy is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CalidadFinal/StaticBackendAnalysisFinal/McNutsFixed/McNutsAPI/Startup.cs",
-                "region": {
-                  "startLine": 94,
-                  "startColumn": 42,
-                  "endLine": 94,
-                  "endColumn": 66
                 }
               }
             }

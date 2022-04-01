@@ -9529,7 +9529,7 @@ bD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Secur
 )S T
 ;T U
 } 
-} ”j
+} ªj
 aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Security\UserService.cs
 	namespace 	
 	McNutsAPI
@@ -9554,13 +9554,14 @@ aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Secur
 >1 2
 userManager3 >
 ;> ?
-private 
-RoleManager 
-< 
-IdentityRole (
->( )
-roleManager* 5
-;5 6
+private 
+readonly 
+RoleManager $
+<$ %
+IdentityRole% 1
+>1 2
+roleManager3 >
+;> ?
 private 
 IConfiguration 
 configuration ,
