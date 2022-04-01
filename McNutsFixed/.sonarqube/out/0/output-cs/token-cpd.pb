@@ -8746,7 +8746,7 @@ UploadFile 
 )M N
 ;N O
 } 
-} ˆc
+} žc
 ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\PeanutService.cs
 	namespace 	
 	McNutsAPI
@@ -8769,20 +8769,21 @@ ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Peanu
 IMapper 
 _mapper 
 ;  
-private 
-HashSet 
-< 
-string 
-> !
-_allowedOrderByValues  5
-=6 7
-new8 ;
-HashSet< C
-<C D
-stringD J
->J K
-(K L
-)L M
+private 
+readonly 
+HashSet  
+<  !
+string! '
+>' (!
+_allowedOrderByValues) >
+=? @
+newA D
+HashSetE L
+<L M
+stringM S
+>S T
+(T U
+)U V
 { 	
 $str 
 , 
