@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E6UkGDXk5lPawm5NMKLHNtoA5ijngIsxMvoAUUllYW0tBmAuQVhf4jFmifYVeam71otDj9IwLrgBLsRSKcW6bg==",
+  "dgSpecHash": "CBa9pvyVwTsMiEuLnamyN1jJUxkE1I0MTKP8slXYezxKOzuilgoBoKvA19Yu/GFnD4YKvRW1Q7XAuByTioL/gw==",
   "success": true,
-  "projectFilePath": "D:\\UNIVERSIDAD 2021\\I-2021\\TECNOLOGIAS WEB\\TAREAS REALIZADAS\\ProyectoTecWebOficial Oficial\\McNutsAPI\\McNutsAPI\\McNutsAPI.csproj",
+  "projectFilePath": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\McNutsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Luis\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Juan Luis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
