@@ -2725,7 +2725,7 @@ gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositor
 )$ %
 ;% &
 }   
-}!! ç™
+}!! ý™
 fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositories\PeanutRepository.cs
 	namespace 	
 	McNutsAPI
@@ -2752,11 +2752,12 @@ fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositor
 
 $ 5
 { 
-private 
-PeanutDbContext 
+private 
+readonly 
+PeanutDbContext (
 
-_dbContext  *
-;* +
+_dbContext) 3
+;3 4
 public 
 PeanutRepository 
 (  
