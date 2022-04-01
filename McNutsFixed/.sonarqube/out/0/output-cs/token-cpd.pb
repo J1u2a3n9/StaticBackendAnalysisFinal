@@ -7683,7 +7683,7 @@ ExpireDate #
 ;. /
 }0 1
 } 
-} ¢
+} ¶
 
 KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs
 	namespace
@@ -7695,9 +7695,10 @@ KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs
  
 { 
 public 
-
-class 
-Program 
+
+static 
+class 
+Program 
 { 
 public 
 static 

@@ -784,7 +784,7 @@ gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Securit
  #½
 KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs
 
- 
+ 
 
  
 ) - "
