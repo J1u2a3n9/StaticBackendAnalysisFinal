@@ -1,0 +1,274 @@
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csprojAssemblyReference.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfo.cs
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.exe
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.deps.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.dev.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.Manifest.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.xml
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\McNutsAPI.styles.css
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.RazorTargetAssemblyInfo.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CopyComplete
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.genruntimeconfig.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.exe
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.deps.json
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.json
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.dev.json
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csprojAssemblyReference.cache
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfoInputs.cache
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfo.cs
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CoreCompileInputs.cache
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.Manifest.cache
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.xml
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\McNutsAPI.styles.css
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.RazorTargetAssemblyInfo.cache
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CopyComplete
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\ProyectoTecWeb\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.genruntimeconfig.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.exe
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.deps.json
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.json
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.dev.json
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csprojAssemblyReference.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfoInputs.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfo.cs
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CoreCompileInputs.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.Manifest.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.xml
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\McNutsAPI.styles.css
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.RazorTargetAssemblyInfo.cache
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CopyComplete
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\ProyectoTecWebOficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.genruntimeconfig.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.exe
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.deps.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.runtimeconfig.dev.json
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csprojAssemblyReference.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.AssemblyInfo.cs
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.Manifest.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\staticwebassets\McNutsAPI.StaticWebAssets.xml
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\McNutsAPI.styles.css
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.RazorTargetAssemblyInfo.cache
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.csproj.CopyComplete
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.dll
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.pdb
+D:\UNIVERSIDAD 2021\I-2021\TECNOLOGIAS WEB\TAREAS REALIZADAS\ProyectoTecWebOficial Oficial\McNutsAPI\McNutsAPI\obj\Debug\netcoreapp3.1\McNutsAPI.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\McNutsAPI",
+    "\\McNutsAPI\\Data",
+    "\\McNutsAPI\\Data\\Entities",
+    "\\McNutsAPI\\Data\\Repositories",
+    "\\McNutsAPI\\Exceptions",
+    "\\McNutsAPI\\Models",
+    "\\McNutsAPI\\obj",
+    "\\McNutsAPI\\Properties",
+    "\\McNutsAPI\\Services"
+  ],
+  "SelectedNode": "\\McNutsAPI.sln",
+  "PreviewInSolutionExplorer": false
+}

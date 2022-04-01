@@ -1,0 +1,448 @@
+{
+	"info": {
+		"_postman_id": "6278acc8-4eaf-42f6-96f5-72fec358f19d",
+		"name": "MCNutsAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Peanut",
+			"item": [
+				{
+					"name": "GetPeanuts",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetPeanut",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/7",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"7"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeletePeanut",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreatePeanut",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Oreo\",\r\n    \"elaborationDate\": \"2021-03-28T00:00:00\",\r\n    \"expirationDate\": \"2021-12-12T00:00:00\",\r\n    \"unitCost\": 5,\r\n    \"wholesalePrice\": 3,\r\n    \"amount\": 90,\r\n    \"productionStatus\": true,\r\n    \"discontinuationDate\": null,\r\n    \"productionStartDate\": \"2021-03-30T22:40:11.6888116Z\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UpdatePeanut",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    {\r\n        \"name\": \"Leche condensada\",\r\n        \"elaborationDate\": \"2021-03-28T00:00:00\",\r\n        \"expirationDate\": \"2021-12-12T00:00:00\",\r\n        \"unitCost\": 12,\r\n        \"wholesalePrice\": 8,\r\n        \"amount\": 55,\r\n        \"productionStatus\": true,\r\n        \"discontinuationDate\": null,\r\n        \"productionStartDate\": \"2021-03-30T22:41:43.5068283Z\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "RestoreProduction",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateStock",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "50",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/11/updatestock",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"11",
+								"updatestock"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Client",
+			"item": [
+				{
+					"name": "GetClients",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/8/clients",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"8",
+								"clients"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetClient",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/1/clients/14419455",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"1",
+								"clients",
+								"14419455"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteClient",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/12/clients/71745068",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"12",
+								"clients",
+								"71745068"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreateClient",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"Ci\": 4569871,\r\n        \"Nombre\": \"Pepe\",\r\n        \"Apellido\": \"Villarroel Villarroel\",\r\n        \"Celular\": 4430687,\r\n        \"LugarCompra\": \"Sucursal 3 - Sucre\",\r\n        \"FechaCompra\": \"2021-03-24T00:00:00\",\r\n        \"PeanutId\":5,\r\n        \"CantidadCompra\": 10\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/17/clients",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"17",
+								"clients"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateClient",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ci\": 77417852,\r\n    \"nombre\": \"Bernard\",\r\n    \"apellido\": \"Villarroel Villarroel\",\r\n    \"celular\": 4430687,\r\n    \"lugarCompra\": \"Sucursal 3 - Sucre\",\r\n    \"fechaCompra\": \"2021-03-24T00:00:00\",\r\n    \"peanutId\": 8,\r\n    \"cantidadCompra\": 20\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/peanuts/8/clients/8",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"peanuts",
+								"8",
+								"clients",
+								"8"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Security",
+			"item": [
+				{
+					"name": "CreateUser",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Email\": \"juanluis1@gmail.com\",\r\n    \"Password\": \"Alison123@\",\r\n    \"ConfirmPassword\": \"Alison123@\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/auth/User",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"auth",
+								"User"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreateRole",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\": \"Admin2\",\r\n    \"NormalizedName\": \"Admin2\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/auth/role",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"auth",
+								"role"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreateUserRole",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"UserId\": \"0b730ac5-5240-4c6f-b749-7527724ba703\",\r\n    \"RoleId\": \"139a7537-776d-42f6-9fb7-cd3c4cafdf9d\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/auth/UserRole",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"auth",
+								"UserRole"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Email\": \"juanluis@gmail.com\",\r\n    \"Password\": \"Alison123@\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3030/api/auth/Login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3030",
+							"path": [
+								"api",
+								"auth",
+								"Login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
