@@ -1,4 +1,4 @@
-ö+
+Œ,
 ^D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\AuthController.cs
 	namespace		 	
 	McNutsAPI		
@@ -26,10 +26,11 @@
 :  !
 ControllerBase" 0
 { 
-private 
-IUserService 
-userService (
-;( )
+private 
+readonly 
+IUserService %
+userService& 1
+;1 2
 public 
 AuthController 
 ( 
