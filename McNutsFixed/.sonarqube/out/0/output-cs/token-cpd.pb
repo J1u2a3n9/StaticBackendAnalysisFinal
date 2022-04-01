@@ -955,7 +955,7 @@ StatusCode
 ññ 	
 }
 úú 
-}ùù ùm
+}ùù ≥m
 `D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\PeanutController.cs
 	namespace 	
 	McNutsAPI
@@ -979,10 +979,11 @@ StatusCode
 
 Controller% /
 { 
-private 
-IPeanutService 
-_peanutsService .
-;. /
+private 
+readonly 
+IPeanutService '
+_peanutsService( 7
+;7 8
 private 
 IFileService 
 _fileService )

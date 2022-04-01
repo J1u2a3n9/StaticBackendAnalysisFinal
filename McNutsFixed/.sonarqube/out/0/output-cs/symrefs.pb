@@ -76,7 +76,7 @@
 `D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\PeanutController.cs
 
  "j
- . $ 300# 2FF# 2``# 2xx# 2
+( 7 $ 300# 2FF# 2``# 2xx# 2
 ““# 2
 ¨¨# 2
 ··# 2(
