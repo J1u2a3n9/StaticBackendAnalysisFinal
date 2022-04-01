@@ -126,7 +126,8 @@ namespace McNutsAPI.Data.Repositories
             }
             catch (Exception ex)
             {
-                throw ex;
+                Console.WriteLine(ex);
+                throw ;
             }
 
         }
