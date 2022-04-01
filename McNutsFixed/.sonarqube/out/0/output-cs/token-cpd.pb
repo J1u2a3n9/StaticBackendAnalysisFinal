@@ -8746,7 +8746,7 @@ UploadFile 
 )M N
 ;N O
 } 
-} žc
+} ´c
 ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\PeanutService.cs
 	namespace 	
 	McNutsAPI
@@ -8761,10 +8761,11 @@ ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Peanu
 :  
 IPeanutService! /
 { 
-private 
-IPeanutRepository !
-_peanutRepository" 3
-;3 4
+private 
+readonly 
+IPeanutRepository *
+_peanutRepository+ <
+;< =
 private 
 IMapper 
 _mapper 
