@@ -14,7 +14,7 @@ namespace McNutsAPI.Services
     {
         private IPeanutRepository _peanutRepository;
         private IMapper _mapper;
-        private HashSet<string> _allowedOrderByValues = new HashSet<string>()
+        private readonly HashSet<string> _allowedOrderByValues = new HashSet<string>()
         {
             "id",
             "name",
