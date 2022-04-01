@@ -9529,7 +9529,7 @@ bD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Secur
 )S T
 ;T U
 } 
-} ªj
+} Àj
 aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Security\UserService.cs
 	namespace 	
 	McNutsAPI
@@ -9562,10 +9562,11 @@ aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Secur
 >1 2
 roleManager3 >
 ;> ?
-private 
-IConfiguration 
-configuration ,
-;, -
+private 
+readonly 
+IConfiguration '
+configuration( 5
+;5 6
 public 
 UserService 
 ( 
