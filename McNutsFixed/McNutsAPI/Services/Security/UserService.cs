@@ -15,7 +15,7 @@ namespace McNutsAPI.Services.Security
     public class UserService : IUserService
     {
         private readonly UserManager<IdentityUser> userManager;
-        private RoleManager<IdentityRole> roleManager;
+        private readonly RoleManager<IdentityRole> roleManager;
         private IConfiguration configuration;
 
         public UserService(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager, IConfiguration configuration)
