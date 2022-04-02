@@ -13,7 +13,7 @@ namespace McNutsAPI.Services
     public class PeanutService : IPeanutService
     {
         private readonly IPeanutRepository _peanutRepository;
-        private IMapper _mapper;
+        private readonly IMapper _mapper;
         private readonly HashSet<string> _allowedOrderByValues = new HashSet<string>()
         {
             "id",

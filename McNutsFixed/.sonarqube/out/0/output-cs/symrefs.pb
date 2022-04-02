@@ -794,7 +794,7 @@ KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs
 ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs
 
  Œ
-" 3   0## #** #++ 077 0DD 0QQ  1XX #YY #ZZ 0ee 0P
++ <   0## #** #++ 077 0DD 0QQ  1XX #YY #ZZ 0ee 0P
 ! (  &$$ << %II %RR XXD K
 
  
