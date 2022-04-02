@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace McNutsAPI.Exceptions
 {
-    public class NotFoundPeanutException : Exception
+    public class Empty : Exception
     {
-        public NotFoundPeanutException(string message) : base(message)
+        public Empty(string message) : base(message)
         {
 
         }

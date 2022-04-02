@@ -12,9 +12,9 @@ namespace McNutsAPI.Services
 {
     public class PeanutService : IPeanutService
     {
-        private IPeanutRepository _peanutRepository;
-        private IMapper _mapper;
-        private HashSet<string> _allowedOrderByValues = new HashSet<string>()
+        private readonly IPeanutRepository _peanutRepository;
+        private readonly IMapper _mapper;
+        private readonly HashSet<string> _allowedOrderByValues = new HashSet<string>()
         {
             "id",
             "name",
@@ -35,7 +35,8 @@ namespace McNutsAPI.Services
             {
                 return _mapper.Map<PeanutModel>(peanutEntity);
             }
-            throw new ArgumentNullException("newPeanut","Database Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
         }
 
         public async Task<bool> DeletePeanutAsync(long peanutId)
@@ -45,7 +46,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new ArgumentNullException("peanutId","DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return true;
         }
@@ -102,7 +104,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new ArgumentNullException("peanutId","DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return _mapper.Map<PeanutModel>(updatePeanut);
         }

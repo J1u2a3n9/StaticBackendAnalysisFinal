@@ -6233,24 +6233,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALIENWARE M17 R3\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Juan Luis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Calidad\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\McNutsAPI.csproj",
+      "projectUniqueName": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\McNutsAPI.csproj",
       "projectName": "McNutsAPI",
-      "projectPath": "C:\\Users\\Public\\Calidad\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\McNutsAPI.csproj",
-      "packagesPath": "C:\\Users\\ALIENWARE M17 R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Calidad\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\obj\\",
+      "projectPath": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\McNutsAPI.csproj",
+      "packagesPath": "C:\\Users\\Juan Luis\\.nuget\\packages\\",
+      "outputPath": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsFixed\\McNutsAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ALIENWARE M17 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Juan Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

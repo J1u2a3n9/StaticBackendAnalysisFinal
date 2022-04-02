@@ -14,9 +14,9 @@ namespace McNutsAPI.Services.Security
 {
     public class UserService : IUserService
     {
-        private UserManager<IdentityUser> userManager;
-        private RoleManager<IdentityRole> roleManager;
-        private IConfiguration configuration;
+        private readonly UserManager<IdentityUser> userManager;
+        private readonly RoleManager<IdentityRole> roleManager;
+        private readonly IConfiguration configuration;
 
         public UserService(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager, IConfiguration configuration)
         {
@@ -162,7 +162,7 @@ namespace McNutsAPI.Services.Security
             }
 
             var user = await userManager.FindByIdAsync(model.UserId);
-            if (user == null)
+            if (role == null)
             {
                 return new UserManagerResponse
                 {

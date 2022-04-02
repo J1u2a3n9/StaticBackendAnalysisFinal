@@ -13,17 +13,17 @@ namespace McNutsAPI.Data
         public DbSet<PeanutEntity> Peanuts { get; set; }
         public DbSet<ClientEntity> Clients { get; set; }
         public PeanutDbContext(DbContextOptions<PeanutDbContext> options) : base(options){}
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            base.OnModelCreating(modelBuilder);
+            base.OnModelCreating(builder);
 
-            modelBuilder.Entity<PeanutEntity>().ToTable("Peanut");
-            modelBuilder.Entity<PeanutEntity>().Property(p => p.Id).ValueGeneratedOnAdd();
-            modelBuilder.Entity<PeanutEntity>().HasMany(p => p.Clients).WithOne(c => c.Peanut);
-
-            modelBuilder.Entity<ClientEntity>().ToTable("Client");
-            modelBuilder.Entity<ClientEntity>().Property(c => c.Id).ValueGeneratedOnAdd();
-            modelBuilder.Entity<ClientEntity>().HasOne(c => c.Peanut).WithMany(p => p.Clients);
+            builder.Entity<PeanutEntity>().ToTable("Peanut");
+            builder.Entity<PeanutEntity>().Property(p => p.Id).ValueGeneratedOnAdd();
+            builder.Entity<PeanutEntity>().HasMany(p => p.Clients).WithOne(c => c.Peanut);
+    
+            builder.Entity<ClientEntity>().ToTable("Client");
+            builder.Entity<ClientEntity>().Property(c => c.Id).ValueGeneratedOnAdd();
+            builder.Entity<ClientEntity>().HasOne(c => c.Peanut).WithMany(p => p.Clients);
 
             //dotnet tool install --global dotnet-ef
             //dotnet ef migrations add InitialCreate

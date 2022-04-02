@@ -77,18 +77,12 @@ namespace McNutsAPI
                 };
             });
 
-            services.AddCors(options =>
-                 {
-        options.AddDefaultPolicy(builder =>
-        {
-            builder.WithOrigins("http://localhost:3030"); 
-        });
 
-        options.AddPolicy(name: "EnableAllPolicy", builder =>
-        {
-            builder.WithOrigins("http://localhost:3030"); 
-        });
-          });
+
+            services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => { options.AllowAnyOrigin(); options.AllowAnyMethod(); options.AllowAnyHeader(); });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -97,7 +91,7 @@ namespace McNutsAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseCors(options => { options.WithOrigins("http://localhost:3030").AllowAnyMethod();  });
+                app.UseCors(options => { options.AllowAnyOrigin(); options.AllowAnyMethod(); options.AllowAnyHeader(); });
             }
 
             app.UseRouting();

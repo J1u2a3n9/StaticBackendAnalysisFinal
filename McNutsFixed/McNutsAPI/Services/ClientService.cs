@@ -12,8 +12,8 @@ namespace McNutsAPI.Services
 {
     public class ClientService : IClientService
     {
-        private IPeanutRepository _peanutRepository;
-        private IMapper _mapper;
+        private readonly IPeanutRepository _peanutRepository;
+        private readonly IMapper _mapper;
         public ClientService(IPeanutRepository peanutRepository, IMapper mapper)
         {
             _peanutRepository = peanutRepository;
@@ -29,7 +29,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new ArgumentNullException("peanutId","DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             await _peanutRepository.UpdateStockAsync(peanutId, -newClient.CantidadCompra);
             return _mapper.Map<ClientModel>(clientEntity);
@@ -42,7 +43,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new ArgumentNullException("peanutId","DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return true;
         }
@@ -88,7 +90,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new ArgumentNullException("peanutId","DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return updateClient;
         }

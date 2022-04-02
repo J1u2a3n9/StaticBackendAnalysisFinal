@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace McNutsAPI.Exceptions
 {
-    public class NotFoundPeanutException : Exception
+    public class InsufficientAmountPeanutsException : Exception
     {
-        public NotFoundPeanutException(string message) : base(message)
+        public InsufficientAmountPeanutsException(string message) : base(message)
         {
 
         }
