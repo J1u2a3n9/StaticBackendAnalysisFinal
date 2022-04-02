@@ -325,7 +325,7 @@ BadRequestXX 
 ;XX> ?
 }YY 	
 }[[ 
-}\\ çN
+}\\ £N
 `D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\ClientController.cs
 	namespace 	
 	McNutsAPI
@@ -353,10 +353,11 @@ BadRequestXX 
 IClientService '
 _clientService( 6
 ;6 7
-private 
-IFileService 
-_fileService )
-;) *
+private 
+readonly 
+IFileService %
+_fileService& 2
+;2 3
 public 
 ClientsController  
 (  !

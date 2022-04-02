@@ -12,7 +12,7 @@ namespace McNutsAPI.Services
 {
     public class ClientService : IClientService
     {
-        private IPeanutRepository _peanutRepository;
+        private readonly IPeanutRepository _peanutRepository;
         private readonly IMapper _mapper;
         public ClientService(IPeanutRepository peanutRepository, IMapper mapper)
         {
