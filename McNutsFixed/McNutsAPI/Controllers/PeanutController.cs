@@ -14,8 +14,8 @@ namespace McNutsAPI.Controllers
     public class PeanutsController : Controller
     {
 
-        private IPeanutService _peanutsService;
-        private IFileService _fileService;
+        private readonly IPeanutService _peanutsService;
+        private readonly IFileService _fileService;
         public PeanutsController(IPeanutService peanutsService, IFileService fileService)
         {
             _peanutsService = peanutsService;

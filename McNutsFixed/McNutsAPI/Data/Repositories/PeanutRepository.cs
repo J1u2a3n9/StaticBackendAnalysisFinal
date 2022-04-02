@@ -9,7 +9,7 @@ namespace McNutsAPI.Data.Repositories
 {
     public class PeanutRepository : IPeanutRepository
     {
-        private PeanutDbContext _dbContext;
+        private readonly PeanutDbContext _dbContext;
         public PeanutRepository(PeanutDbContext dbContext)
         {
             _dbContext = dbContext;

@@ -14,8 +14,8 @@ namespace McNutsAPI.Controllers
     [Route("api/peanuts/{peanutId:long}/[controller]")]
     public class ClientsController : ControllerBase
     {
-        private IClientService _clientService;
-        private IFileService _fileService;
+        private readonly IClientService _clientService;
+        private readonly IFileService _fileService;
 
 
         public ClientsController(IClientService clientsService, IFileService fileService)

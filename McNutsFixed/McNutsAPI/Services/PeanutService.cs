@@ -12,9 +12,9 @@ namespace McNutsAPI.Services
 {
     public class PeanutService : IPeanutService
     {
-        private IPeanutRepository _peanutRepository;
-        private IMapper _mapper;
-        private HashSet<string> _allowedOrderByValues = new HashSet<string>()
+        private readonly IPeanutRepository _peanutRepository;
+        private readonly IMapper _mapper;
+        private readonly HashSet<string> _allowedOrderByValues = new HashSet<string>()
         {
             "id",
             "name",
