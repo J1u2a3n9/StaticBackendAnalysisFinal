@@ -953,7 +953,7 @@ StatusCode
 ññ 	
 }
 úú 
-}ùù ≥m
+}ùù ™m
 mD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Controllers\PeanutController.cs
 	namespace 	
 	McNutsAPI
@@ -1872,13 +1872,13 @@ StatusCode
 catch
 ∫∫ 
 (
-∫∫ 0
-"InsufficientAmountPeanutsException
-∫∫ 5
+∫∫ '
+InsufficientAmountPeanuts
+∫∫ ,
 ex
-∫∫6 8
+∫∫- /
 )
-∫∫8 9
+∫∫/ 0
 {
 ªª 
 return
@@ -4208,7 +4208,7 @@ Exceptions 
 { 	
 } 	
 } 
-} ¸
+} Í
 uD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 	namespace 	
 	McNutsAPI
@@ -4219,44 +4219,44 @@ Exceptions 
 { 
 public 
 
-class .
-"InsufficientAmountPeanutsException 3
-:4 5
-	Exception6 ?
+class %
+InsufficientAmountPeanuts *
+:+ ,
+	Exception- 6
 {		 
 public
 
- .
-"InsufficientAmountPeanutsException
+ %
+InsufficientAmountPeanuts
 
- 1
+ (
 (
 
-1 2
+( )
 string
 
-2 8
+) /
 message
 
-9 @
+0 7
 )
 
-@ A
+7 8
 :
 
-B C
+9 :
 base
 
-D H
+; ?
 (
 
-H I
+? @
 message
 
-I P
+@ G
 )
 
-P Q
+G H
 { 	
 } 	
 } 
@@ -7678,7 +7678,7 @@ ExpireDate #
 ;. /
 }0 1
 } 
-} √
+} Ø
 
 XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Program.cs
 	namespace
@@ -7690,10 +7690,9 @@ XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\P
  
 { 
 public 
-
-static 
-class 
-Program 
+
+class 
+Program 
 { 
 public 
 static 
@@ -8741,7 +8740,7 @@ hD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\S
 )M N
 ;N O
 } 
-} §c
+} ïc
 gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\PeanutService.cs
 	namespace 	
 	McNutsAPI
@@ -9386,21 +9385,18 @@ entityListOOB L
 )xx& '
 {yy 
 throwzz 
-newzz .
-"InsufficientAmountPeanutsExceptionzz @
-(zz@ A
-$"zzA C
-$strzzC \
-{zz\ ]
-peanutIdzz] e
-}zze f
-$str	zzf Ü
-"
-zzÜ á
-)
-zzá à
-;
-zzà â
+newzz %
+InsufficientAmountPeanutszz 7
+(zz7 8
+$"zz8 :
+$strzz: S
+{zzS T
+peanutIdzzT \
+}zz\ ]
+$strzz] }
+"zz} ~
+)zz~ 
+;	zz Ä
 }{{ 
 }|| 
 var}} 

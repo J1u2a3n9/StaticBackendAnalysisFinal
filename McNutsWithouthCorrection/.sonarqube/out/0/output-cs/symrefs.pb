@@ -144,7 +144,7 @@ mD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\C
 ·· 
 ¸¸  
 
-ºº6 8
+ºº- /
 ¼¼  "„
 fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\AtomapperProfile.cs
 
@@ -493,16 +493,16 @@ aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\E
 , 3¥
 uD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 
- 3
+ *
 
 
 
- 1
+ (
 
 
-9 @
+0 7
 
-I P«
+@ G«
 {D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\InvalidOperationClientException.cs
 
  0
@@ -784,7 +784,7 @@ tD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\M
  #Ê
 XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Program.cs
 
- 
+ 
 
  
 ) - "
@@ -982,7 +982,7 @@ gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\S
 ff gg 
 
 nn' 72
-nn= Epp0 8ssN Vzz] e}}H P
+nn= Epp0 8ssN VzzT \}}H P
 nnM S}}R X
 pp qq xx 
 }} ~~5 A

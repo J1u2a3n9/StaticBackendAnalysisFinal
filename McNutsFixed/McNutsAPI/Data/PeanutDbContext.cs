@@ -20,7 +20,7 @@ namespace McNutsAPI.Data
             builder.Entity<PeanutEntity>().ToTable("Peanut");
             builder.Entity<PeanutEntity>().Property(p => p.Id).ValueGeneratedOnAdd();
             builder.Entity<PeanutEntity>().HasMany(p => p.Clients).WithOne(c => c.Peanut);
-
+    
             builder.Entity<ClientEntity>().ToTable("Client");
             builder.Entity<ClientEntity>().Property(c => c.Id).ValueGeneratedOnAdd();
             builder.Entity<ClientEntity>().HasOne(c => c.Peanut).WithMany(p => p.Clients);
