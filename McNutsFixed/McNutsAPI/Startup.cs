@@ -82,6 +82,8 @@ namespace McNutsAPI
             services.AddCors(c =>
             {
                 c.AddPolicy("AllowOrigin", options => { options.AllowAnyOrigin(); options.AllowAnyMethod(); options.AllowAnyHeader(); });
+
+
             });
         }
 
