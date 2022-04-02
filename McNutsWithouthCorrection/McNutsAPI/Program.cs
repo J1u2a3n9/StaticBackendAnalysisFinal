@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace McNutsAPI
 {
-    public static class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
