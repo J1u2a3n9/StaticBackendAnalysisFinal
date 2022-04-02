@@ -119,7 +119,7 @@ namespace McNutsAPI.Services
             {
                 if (peanut.Amount <= 0)
                 {
-                    throw new InsufficientAmountPeanuts($"El sabor del mani con id {peanutId} no tiene la cantidad suficiente");
+                    throw new InsufficientAmountPeanutsException($"El sabor del mani con id {peanutId} no tiene la cantidad suficiente");
                 }
             }
             var stockUpdated = await _peanutRepository.UpdateStockAsync(peanutId, amount);
