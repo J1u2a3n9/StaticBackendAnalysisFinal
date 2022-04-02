@@ -80,14 +80,10 @@ namespace McNutsAPI.Services.Security
                 ExpireDate = token.ValidTo
             };
         }
-
+        
         public async Task<UserManagerResponse> RegisterUserAsync(RegisterViewModel model)
         {
-            if (model == null)
-            {
-                throw new NullReferenceException("model is null");
-            }
-
+            ValidateModel(model);
             if (model.Password != model.ConfirmPassword)
                 return new UserManagerResponse
                 {
@@ -118,6 +114,13 @@ namespace McNutsAPI.Services.Security
                 IsSuccess = false,
                 Errors = result.Errors.Select(e => e.Description)
             };
+        }
+        public void ValidateModel(RegisterViewModel model)
+        {
+            if (model == null)
+            {
+                throw new ArgumentNullException("model","model is null");
+            }
         }
 
         public async Task<UserManagerResponse> CreateRoleAsync(CreateRoleViewModel model)
