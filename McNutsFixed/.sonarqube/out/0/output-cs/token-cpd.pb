@@ -955,7 +955,7 @@ StatusCode
 ññ 	
 }
 úú 
-}ùù …m
+}ùù “m
 `D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\PeanutController.cs
 	namespace 	
 	McNutsAPI
@@ -1876,13 +1876,13 @@ StatusCode
 catch
 ∫∫ 
 (
-∫∫ '
-InsufficientAmountPeanuts
-∫∫ ,
+∫∫ 0
+"InsufficientAmountPeanutsException
+∫∫ 5
 ex
-∫∫- /
+∫∫6 8
 )
-∫∫/ 0
+∫∫8 9
 {
 ªª 
 return
@@ -4213,7 +4213,7 @@ Exceptions 
 { 	
 } 	
 } 
-} ›
+} Ô
 hD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 	namespace 	
 	McNutsAPI
@@ -4224,44 +4224,44 @@ Exceptions 
 { 
 public 
 
-class %
-InsufficientAmountPeanuts *
-:+ ,
-	Exception- 6
+class .
+"InsufficientAmountPeanutsException 3
+:4 5
+	Exception6 ?
 {		 
 public
 
- %
-InsufficientAmountPeanuts
+ .
+"InsufficientAmountPeanutsException
 
- (
+ 1
 (
 
-( )
+1 2
 string
 
-) /
+2 8
 message
 
-0 7
+9 @
 )
 
-7 8
+@ A
 :
 
-9 :
+B C
 base
 
-; ?
+D H
 (
 
-? @
+H I
 message
 
-@ G
+I P
 )
 
-G H
+P Q
 { 	
 } 	
 } 
@@ -8747,7 +8747,7 @@ UploadFile 
 )M N
 ;N O
 } 
-} ¥c
+} √c
 ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\PeanutService.cs
 	namespace 	
 	McNutsAPI
@@ -9394,18 +9394,21 @@ entityListOOB L
 )xx& '
 {yy 
 throwzz 
-newzz %
-InsufficientAmountPeanutszz 7
-(zz7 8
-$"zz8 :
-$strzz: S
-{zzS T
-peanutIdzzT \
-}zz\ ]
-$strzz] }
-"zz} ~
-)zz~ 
-;	zz Ä
+newzz .
+"InsufficientAmountPeanutsExceptionzz @
+(zz@ A
+$"zzA C
+$strzzC \
+{zz\ ]
+peanutIdzz] e
+}zze f
+$str	zzf Ü
+"
+zzÜ á
+)
+zzá à
+;
+zzà â
 }{{ 
 }|| 
 var}} 
