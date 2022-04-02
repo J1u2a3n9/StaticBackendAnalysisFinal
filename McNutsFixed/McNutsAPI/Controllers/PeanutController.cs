@@ -183,9 +183,9 @@ namespace McNutsAPI.Controllers
                 var peanut = await _peanutsService.UpdateStockAsync(peanutId, amount);
                 return Ok(peanut);
             }
-            catch (InsufficientAmountPeanuts ex)
+            catch (InsufficientAmountPeanutsException ex)
             {
-                return NotFound(ex.Message);
+                return NotFound(ex.Message); 
             }
             catch (Exception)
             {
