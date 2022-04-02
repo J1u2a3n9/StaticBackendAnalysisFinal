@@ -57,9 +57,9 @@ eD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Securit
 gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\UserManagerResponse.cs 8r	
 v
 KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs 8r
-‚‚
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs. 
-8ri	 !"#$&'()*+,-./023456789:;<=?@ABCDEFGHIJLMNOPQSTUVWXYZ[\]^`abcdefgijklnopqrsx‚. "#()*+-/4568:;<ABCEGHINOPUVWXY[]bcekp—
+‚ƒ
+ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs/ 
+8rj	 !"#$%'()*+,-./013456789:;<=>@ABCDEFGHIJKMNOPQRTUVWXYZ[\]^_abcdefghjklmopqrstx‚.!#$)*+,.05679;<=BCDFHIJOPQVWXYZ\^cdflq—
 XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\FileService.cs 8r"	
  "#$%x‚"q
 [D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IClientService.csr	

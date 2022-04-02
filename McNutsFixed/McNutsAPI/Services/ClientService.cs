@@ -27,10 +27,10 @@ namespace McNutsAPI.Services
             var clientEntity = _mapper.Map<ClientEntity>(newClient);
             _peanutRepository.CreateClient(peanutId, clientEntity);
             var result = await _peanutRepository.SaveChangesAsync();
-            var exception ="DataBase Error";
             if (!result)
             {
-                throw new Exception(exception);
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             await _peanutRepository.UpdateStockAsync(peanutId, -newClient.CantidadCompra);
             return _mapper.Map<ClientModel>(clientEntity);

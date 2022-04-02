@@ -7764,7 +7764,7 @@ UseStartup )
 ) 
 ; 
 } 
-} ÃV
+} ‰V
 ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs
 	namespace 	
 	McNutsAPI
@@ -7865,502 +7865,503 @@ ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Clien
 SaveChangesAsync1 A
 (A B
 )B C
-;C D
-if 
-( 
-! 
-result 
-) 
-{ 
-throw   
-new   
-	Exception   #
-(  # $
-result  $ *
-.  * +
-ToString  + 3
-(  3 4
-)  4 5
-)  5 6
-;  6 7
-}!! 
-await"" 
-_peanutRepository"" #
-.""# $
-UpdateStockAsync""$ 4
-(""4 5
-peanutId""5 =
-,""= >
--""? @
-	newClient""@ I
-.""I J
-CantidadCompra""J X
-)""X Y
-;""Y Z
-return## 
-_mapper## 
-.## 
-Map## 
-<## 
-ClientModel## *
->##* +
-(##+ ,
-clientEntity##, 8
-)##8 9
-;##9 :
-}$$ 	
-public&& 
-async&& 
-Task&& 
-<&& 
-bool&& 
->&& 
-DeleteClientAsync&&  1
-(&&1 2
-long&&2 6
-peanutId&&7 ?
-,&&? @
-long&&A E
-ci&&F H
-)&&H I
-{'' 	
-await(( (
-ValidateClientAndPeanutAsync(( .
-(((. /
-peanutId((/ 7
-,((7 8
-ci((9 ;
-)((; <
-;((< =
-await)) 
-_peanutRepository)) #
-.))# $
-DeleteClientAsync))$ 5
-())5 6
-peanutId))6 >
-,))> ?
-ci))@ B
-)))B C
-;))C D
-var** 
-result** 
-=** 
-await** 
-_peanutRepository** 0
-.**0 1
-SaveChangesAsync**1 A
-(**A B
+;C D
+var 
+	exception 
+= 
+$str +
+;+ ,
+if 
+( 
+! 
+result 
+) 
+{   
+throw!! 
+new!! 
+	Exception!! #
+(!!# $
+	exception!!$ -
+)!!- .
+;!!. /
+}"" 
+await## 
+_peanutRepository## #
+.### $
+UpdateStockAsync##$ 4
+(##4 5
+peanutId##5 =
+,##= >
+-##? @
+	newClient##@ I
+.##I J
+CantidadCompra##J X
+)##X Y
+;##Y Z
+return$$ 
+_mapper$$ 
+.$$ 
+Map$$ 
+<$$ 
+ClientModel$$ *
+>$$* +
+($$+ ,
+clientEntity$$, 8
+)$$8 9
+;$$9 :
+}%% 	
+public'' 
+async'' 
+Task'' 
+<'' 
+bool'' 
+>'' 
+DeleteClientAsync''  1
+(''1 2
+long''2 6
+peanutId''7 ?
+,''? @
+long''A E
+ci''F H
+)''H I
+{(( 	
+await)) (
+ValidateClientAndPeanutAsync)) .
+()). /
+peanutId))/ 7
+,))7 8
+ci))9 ;
+))); <
+;))< =
+await** 
+_peanutRepository** #
+.**# $
+DeleteClientAsync**$ 5
+(**5 6
+peanutId**6 >
+,**> ?
+ci**@ B
 )**B C
-;**C D
-if++ 
-(++ 
-!++ 
-result++ 
-)++ 
-{,, 
-throw-- 
-new-- 
-	Exception-- #
-(--# $
-$str--$ 4
-)--4 5
-;--5 6
-}.. 
-return// 
-true// 
-;// 
-}00 	
-public22 
-async22 
-Task22 
-<22 
-ClientModel22 %
->22% &
-GetClientAsync22' 5
-(225 6
-long226 :
-peanutId22; C
-,22C D
-long22E I
-ci22J L
-)22L M
-{33 	
-await44 
-ValidatePeanutAsync44 %
-(44% &
-peanutId44& .
-)44. /
-;44/ 0
-var55 
-client55 
-=55 
-await55 
-_peanutRepository55 0
-.550 1
-GetClientAsync551 ?
-(55? @
-peanutId55@ H
-,55H I
-ci55J L
-)55L M
-;55M N
-if66 
-(66 
-client66 
-==66 
-null66 
-)66 
-{77 
-throw88 
-new88 #
-NotFoundClientException88 1
-(881 2
-$"882 4
-$str884 I
-{88I J
-ci88J L
-}88L M
-$str88M u
-{88u v
-peanutId88v ~
-}88~ 
-"	88 Ä
+;**C D
+var++ 
+result++ 
+=++ 
+await++ 
+_peanutRepository++ 0
+.++0 1
+SaveChangesAsync++1 A
+(++A B
+)++B C
+;++C D
+if,, 
+(,, 
+!,, 
+result,, 
+),, 
+{-- 
+throw.. 
+new.. 
+	Exception.. #
+(..# $
+$str..$ 4
+)..4 5
+;..5 6
+}// 
+return00 
+true00 
+;00 
+}11 	
+public33 
+async33 
+Task33 
+<33 
+ClientModel33 %
+>33% &
+GetClientAsync33' 5
+(335 6
+long336 :
+peanutId33; C
+,33C D
+long33E I
+ci33J L
+)33L M
+{44 	
+await55 
+ValidatePeanutAsync55 %
+(55% &
+peanutId55& .
+)55. /
+;55/ 0
+var66 
+client66 
+=66 
+await66 
+_peanutRepository66 0
+.660 1
+GetClientAsync661 ?
+(66? @
+peanutId66@ H
+,66H I
+ci66J L
+)66L M
+;66M N
+if77 
+(77 
+client77 
+==77 
+null77 
+)77 
+{88 
+throw99 
+new99 #
+NotFoundClientException99 1
+(991 2
+$"992 4
+$str994 I
+{99I J
+ci99J L
+}99L M
+$str99M u
+{99u v
+peanutId99v ~
+}99~ 
+"	99 Ä
 )
-88Ä Å
+99Ä Å
 ;
-88Å Ç
-}99 
-var:: 
-clientModel:: 
-=:: 
-_mapper:: %
-.::% &
-Map::& )
-<::) *
-ClientModel::* 5
->::5 6
-(::6 7
-client::7 =
-)::= >
-;::> ?
-clientModel;; 
-.;; 
-PeanutId;;  
-=;;! "
-peanutId;;# +
-;;;+ ,
-return<< 
-clientModel<< 
-;<< 
-}== 	
-public?? 
-async?? 
-Task?? 
-<?? 
-ClientModel?? %
->??% &
-GetClientAsyncII??' 7
-(??7 8
-long??8 <
-peanutId??= E
-,??E F
-long??G K
-ci??L N
-)??N O
-{@@ 	
-awaitAA 
-ValidatePeanutAsyncAA %
-(AA% &
-peanutIdAA& .
-)AA. /
-;AA/ 0
-varBB 
-clientBB 
-=BB 
-awaitBB 
-_peanutRepositoryBB 0
-.BB0 1
-GetClientAsyncIIBB1 A
-(BBA B
-peanutIdBBB J
-,BBJ K
-ciBBL N
-)BBN O
-;BBO P
-ifCC 
-(CC 
-clientCC 
-==CC 
-nullCC 
-)CC 
-{DD 
-throwEE 
-newEE #
-NotFoundClientExceptionEE 1
-(EE1 2
-$"EE2 4
-$strEE4 I
-{EEI J
-ciEEJ L
-}EEL M
-$strEEM u
-{EEu v
-peanutIdEEv ~
-}EE~ 
-"	EE Ä
+99Å Ç
+}:: 
+var;; 
+clientModel;; 
+=;; 
+_mapper;; %
+.;;% &
+Map;;& )
+<;;) *
+ClientModel;;* 5
+>;;5 6
+(;;6 7
+client;;7 =
+);;= >
+;;;> ?
+clientModel<< 
+.<< 
+PeanutId<<  
+=<<! "
+peanutId<<# +
+;<<+ ,
+return== 
+clientModel== 
+;== 
+}>> 	
+public@@ 
+async@@ 
+Task@@ 
+<@@ 
+ClientModel@@ %
+>@@% &
+GetClientAsyncII@@' 7
+(@@7 8
+long@@8 <
+peanutId@@= E
+,@@E F
+long@@G K
+ci@@L N
+)@@N O
+{AA 	
+awaitBB 
+ValidatePeanutAsyncBB %
+(BB% &
+peanutIdBB& .
+)BB. /
+;BB/ 0
+varCC 
+clientCC 
+=CC 
+awaitCC 
+_peanutRepositoryCC 0
+.CC0 1
+GetClientAsyncIICC1 A
+(CCA B
+peanutIdCCB J
+,CCJ K
+ciCCL N
+)CCN O
+;CCO P
+ifDD 
+(DD 
+clientDD 
+==DD 
+nullDD 
+)DD 
+{EE 
+throwFF 
+newFF #
+NotFoundClientExceptionFF 1
+(FF1 2
+$"FF2 4
+$strFF4 I
+{FFI J
+ciFFJ L
+}FFL M
+$strFFM u
+{FFu v
+peanutIdFFv ~
+}FF~ 
+"	FF Ä
 )
-EEÄ Å
+FFÄ Å
 ;
-EEÅ Ç
-}FF 
-varGG 
-clientModelGG 
-=GG 
-_mapperGG %
-.GG% &
-MapGG& )
-<GG) *
-ClientModelGG* 5
->GG5 6
-(GG6 7
-clientGG7 =
-)GG= >
-;GG> ?
-clientModelHH 
-.HH 
-PeanutIdHH  
-=HH! "
-peanutIdHH# +
-;HH+ ,
-returnII 
-clientModelII 
-;II 
-}JJ 	
-publicLL 
-asyncLL 
-TaskLL 
-<LL 
-IEnumerableLL %
-<LL% &
-ClientModelLL& 1
->LL1 2
->LL2 3
-GetClientsAsyncLL4 C
-(LLC D
-longLLD H
-peanutIdLLI Q
-)LLQ R
-{MM 	
-awaitNN 
-ValidatePeanutAsyncNN %
-(NN% &
-peanutIdNN& .
-)NN. /
-;NN/ 0
-varOO 
-clientsOO 
-=OO 
-awaitOO 
-_peanutRepositoryOO  1
-.OO1 2
-GetClientsAsyncOO2 A
-(OOA B
-peanutIdOOB J
-)OOJ K
-;OOK L
-returnPP 
-_mapperPP 
-.PP 
-MapPP 
-<PP 
-IEnumerablePP *
-<PP* +
-ClientModelPP+ 6
->PP6 7
->PP7 8
-(PP8 9
-clientsPP9 @
-)PP@ A
-;PPA B
-}QQ 	
-publicSS 
-asyncSS 
-TaskSS 
-<SS 
-ClientModelSS %
->SS% &
-UpdateClientAsyncSS' 8
-(SS8 9
-longSS9 =
-peanutIdSS> F
-,SSF G
-longSSH L
-ciSSM O
-,SSO P
-ClientModelSSQ \
-updateClientSS] i
-)SSi j
-{TT 	
-awaitUU *
-ValidateClientAndPeanutAsyncIIUU 0
-(UU0 1
-peanutIdUU1 9
-,UU9 :
-ciUU; =
-)UU= >
-;UU> ?
-awaitVV 
-_peanutRepositoryVV #
-.VV# $
-UpdateClientAsyncVV$ 5
-(VV5 6
-peanutIdVV6 >
-,VV> ?
-ciVV@ B
-,VVB C
-_mapperVVD K
-.VVK L
-MapVVL O
-<VVO P
-ClientEntityVVP \
->VV\ ]
-(VV] ^
-updateClientVV^ j
-)VVj k
-)VVk l
-;VVl m
+FFÅ Ç
+}GG 
+varHH 
+clientModelHH 
+=HH 
+_mapperHH %
+.HH% &
+MapHH& )
+<HH) *
+ClientModelHH* 5
+>HH5 6
+(HH6 7
+clientHH7 =
+)HH= >
+;HH> ?
+clientModelII 
+.II 
+PeanutIdII  
+=II! "
+peanutIdII# +
+;II+ ,
+returnJJ 
+clientModelJJ 
+;JJ 
+}KK 	
+publicMM 
+asyncMM 
+TaskMM 
+<MM 
+IEnumerableMM %
+<MM% &
+ClientModelMM& 1
+>MM1 2
+>MM2 3
+GetClientsAsyncMM4 C
+(MMC D
+longMMD H
+peanutIdMMI Q
+)MMQ R
+{NN 	
+awaitOO 
+ValidatePeanutAsyncOO %
+(OO% &
+peanutIdOO& .
+)OO. /
+;OO/ 0
+varPP 
+clientsPP 
+=PP 
+awaitPP 
+_peanutRepositoryPP  1
+.PP1 2
+GetClientsAsyncPP2 A
+(PPA B
+peanutIdPPB J
+)PPJ K
+;PPK L
+returnQQ 
+_mapperQQ 
+.QQ 
+MapQQ 
+<QQ 
+IEnumerableQQ *
+<QQ* +
+ClientModelQQ+ 6
+>QQ6 7
+>QQ7 8
+(QQ8 9
+clientsQQ9 @
+)QQ@ A
+;QQA B
+}RR 	
+publicTT 
+asyncTT 
+TaskTT 
+<TT 
+ClientModelTT %
+>TT% &
+UpdateClientAsyncTT' 8
+(TT8 9
+longTT9 =
+peanutIdTT> F
+,TTF G
+longTTH L
+ciTTM O
+,TTO P
+ClientModelTTQ \
+updateClientTT] i
+)TTi j
+{UU 	
+awaitVV *
+ValidateClientAndPeanutAsyncIIVV 0
+(VV0 1
+peanutIdVV1 9
+,VV9 :
+ciVV; =
+)VV= >
+;VV> ?
 awaitWW 
 _peanutRepositoryWW #
-.WW# $
-UpdateStockAsyncWW$ 4
-(WW4 5
-peanutIdWW5 =
-,WW= >
-updateClientWW? K
-.WWK L
-CantidadCompraWWL Z
-)WWZ [
-;WW[ \
-varXX 
-resultXX 
-=XX 
-awaitXX 
-_peanutRepositoryXX 0
-.XX0 1
-SaveChangesAsyncXX1 A
-(XXA B
-)XXB C
-;XXC D
-ifYY 
-(YY 
-!YY 
-resultYY 
-)YY 
-{ZZ 
-throw[[ 
-new[[ 
-	Exception[[ #
-([[# $
-$str[[$ 4
-)[[4 5
-;[[5 6
-}\\ 
-return]] 
-updateClient]] 
-;]]  
-}^^ 	
-private`` 
-async`` 
-Task`` 
-ValidatePeanutAsync`` .
-(``. /
-long``/ 3
-peanutId``4 <
-)``< =
-{aa 	
-varbb 
-peanutbb 
-=bb 
-awaitbb 
-_peanutRepositorybb 0
-.bb0 1
-GetPeanutAsyncbb1 ?
-(bb? @
-peanutIdbb@ H
-)bbH I
-;bbI J
-ifcc 
-(cc 
-peanutcc 
-==cc 
-nullcc 
-)cc 
-{dd 
-throwee 
-newee #
-NotFoundPeanutExceptionee 1
-(ee1 2
-$"ee2 4
-$stree4 C
-{eeC D
-peanutIdeeD L
-}eeL M
-$streeM W
-"eeW X
-)eeX Y
-;eeY Z
-}ff 
-}gg 	
-privateii 
-asyncii 
-Taskii (
-ValidateClientAndPeanutAsyncii 7
-(ii7 8
-longii8 <
-peanutIdii= E
-,iiE F
-longiiG K
-clientIdiiL T
-)iiT U
-{jj 	
-varkk 
-clientkk 
-=kk 
-awaitkk 
-GetClientAsynckk -
-(kk- .
-peanutIdkk. 6
-,kk6 7
-clientIdkk8 @
-)kk@ A
-;kkA B
-}ll 	
-privatenn 
-asyncnn 
-Tasknn *
-ValidateClientAndPeanutAsyncIInn 9
-(nn9 :
-longnn: >
-peanutIdnn? G
-,nnG H
-longnnI M
-clientIdnnN V
-)nnV W
-{oo 	
-varpp 
-clientpp 
-=pp 
-awaitpp 
-GetClientAsyncIIpp /
-(pp/ 0
-peanutIdpp0 8
-,pp8 9
-clientIdpp: B
-)ppB C
-;ppC D
-}qq 	
-}rr 
-}ss á
+.WW# $
+UpdateClientAsyncWW$ 5
+(WW5 6
+peanutIdWW6 >
+,WW> ?
+ciWW@ B
+,WWB C
+_mapperWWD K
+.WWK L
+MapWWL O
+<WWO P
+ClientEntityWWP \
+>WW\ ]
+(WW] ^
+updateClientWW^ j
+)WWj k
+)WWk l
+;WWl m
+awaitXX 
+_peanutRepositoryXX #
+.XX# $
+UpdateStockAsyncXX$ 4
+(XX4 5
+peanutIdXX5 =
+,XX= >
+updateClientXX? K
+.XXK L
+CantidadCompraXXL Z
+)XXZ [
+;XX[ \
+varYY 
+resultYY 
+=YY 
+awaitYY 
+_peanutRepositoryYY 0
+.YY0 1
+SaveChangesAsyncYY1 A
+(YYA B
+)YYB C
+;YYC D
+ifZZ 
+(ZZ 
+!ZZ 
+resultZZ 
+)ZZ 
+{[[ 
+throw\\ 
+new\\ 
+	Exception\\ #
+(\\# $
+$str\\$ 4
+)\\4 5
+;\\5 6
+}]] 
+return^^ 
+updateClient^^ 
+;^^  
+}__ 	
+privateaa 
+asyncaa 
+Taskaa 
+ValidatePeanutAsyncaa .
+(aa. /
+longaa/ 3
+peanutIdaa4 <
+)aa< =
+{bb 	
+varcc 
+peanutcc 
+=cc 
+awaitcc 
+_peanutRepositorycc 0
+.cc0 1
+GetPeanutAsynccc1 ?
+(cc? @
+peanutIdcc@ H
+)ccH I
+;ccI J
+ifdd 
+(dd 
+peanutdd 
+==dd 
+nulldd 
+)dd 
+{ee 
+throwff 
+newff #
+NotFoundPeanutExceptionff 1
+(ff1 2
+$"ff2 4
+$strff4 C
+{ffC D
+peanutIdffD L
+}ffL M
+$strffM W
+"ffW X
+)ffX Y
+;ffY Z
+}gg 
+}hh 	
+privatejj 
+asyncjj 
+Taskjj (
+ValidateClientAndPeanutAsyncjj 7
+(jj7 8
+longjj8 <
+peanutIdjj= E
+,jjE F
+longjjG K
+clientIdjjL T
+)jjT U
+{kk 	
+varll 
+clientll 
+=ll 
+awaitll 
+GetClientAsyncll -
+(ll- .
+peanutIdll. 6
+,ll6 7
+clientIdll8 @
+)ll@ A
+;llA B
+}mm 	
+privateoo 
+asyncoo 
+Taskoo *
+ValidateClientAndPeanutAsyncIIoo 9
+(oo9 :
+longoo: >
+peanutIdoo? G
+,ooG H
+longooI M
+clientIdooN V
+)ooV W
+{pp 	
+varqq 
+clientqq 
+=qq 
+awaitqq 
+GetClientAsyncIIqq /
+(qq/ 0
+peanutIdqq0 8
+,qq8 9
+clientIdqq: B
+)qqB C
+;qqC D
+}rr 	
+}ss 
+}tt á
 XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\FileService.cs
 	namespace 	
 	McNutsAPI
