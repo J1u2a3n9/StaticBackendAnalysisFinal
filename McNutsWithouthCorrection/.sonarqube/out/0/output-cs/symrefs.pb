@@ -1,8 +1,8 @@
-¸
-^D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\AuthController.cs
+â
+kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Controllers\AuthController.cs
 
  <
-& 1 # .,,# .==# .NN# .
+ ( # .,,# .==# .NN# .
 
  
 + 6 *
@@ -21,11 +21,11 @@
 
 JJ) 3
 JJN SNN> C(
-NN PP RR $UU" (≥
-`D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\ClientController.cs
+NN PP RR $UU" (¿
+mD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Controllers\ClientController.cs
 
  "H
-( 6   $ 233# 1UU* 8ll) 7
+ -   $ 233# 1UU* 8ll) 7
 ãã# 1(
  ) RR' 3ii' 3
 
@@ -72,15 +72,15 @@
 åå  
 
 éé+ -
-êê" $È
-`D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Controllers\PeanutController.cs
+êê" $ˆ
+mD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Controllers\PeanutController.cs
 
  "j
-( 7 $ 300# 2FF# 2``# 2xx# 2
+ . $ 300# 2FF# 2``# 2xx# 2
 ìì# 2
 ®®# 2
 ∑∑# 2(
-& 2 ]]' 3uu' 3
+ ) ]]' 3uu' 3
 
   
 0 > ,
@@ -145,8 +145,8 @@
 ∏∏  
 
 ∫∫- /
-ºº  "˜
-YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\AtomapperProfile.cs
+ºº  "Ñ
+fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\AtomapperProfile.cs
 
  !
 
@@ -156,8 +156,8 @@ YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Atomapper
 A Ge k
  " %
 0 37 :
-C IM S‰
-^D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Entities\ClientEntity.cs
+C IM SÒ
+kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\Entities\ClientEntity.cs
 
 
 
@@ -181,8 +181,8 @@ YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Atomapper
 
  #
 
- ¸
-^D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Entities\PeanutEntity.cs
+ â
+kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\Entities\PeanutEntity.cs
 
 		 
 
@@ -208,8 +208,8 @@ YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Atomapper
 
 ) 0
 
- å
-XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\PeanutDbContext.cs
+ ô
+eD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\PeanutDbContext.cs
   0 ?
 
 # *
@@ -226,8 +226,8 @@ XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\PeanutDbC
 P QU V
 9 :> ?
 7 8< =
-O PT Uô
-gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositories\IPeanutRepository.cs
+O PT U¶
+tD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\Repositories\IPeanutRepository.cs
 
 		 &
 
@@ -299,13 +299,13 @@ gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositor
 
 G I
 
- #á
-fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositories\PeanutRepository.cs
+ #î
+sD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Data\Repositories\PeanutRepository.cs
 
 
 
  !ÿ
-) 3    ' 1   %%- 7))' 1,, .. 33- 7::- 7AA- 7JJ- 7RR- 7hh )||  *
+  *    ' 1   %%- 7))' 1,, .. 33- 7::- 7AA- 7JJ- 7RR- 7hh )||  *
 àà' 1
 îî )
 °° )
@@ -466,8 +466,8 @@ fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Data\Repositor
 ££ 
 
 °°F G
-°°K Lì
-cD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\ClientExistException.cs
+°°K L†
+pD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\ClientExistException.cs
 
  %
 
@@ -478,8 +478,8 @@ cD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Cli
 
 + 2
 
-; BÑ
-TD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Empty.cs
+; Bë
+aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\Empty.cs
 
  
 
@@ -490,8 +490,8 @@ TD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Emp
 
  #
 
-, 3ò
-hD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
+, 3•
+uD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 
  *
 
@@ -502,8 +502,8 @@ hD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Ins
 
 0 7
 
-@ Gû
-nD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\InvalidOperationClientException.cs
+@ G´
+{D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\InvalidOperationClientException.cs
 
  0
 
@@ -514,8 +514,8 @@ nD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Inv
 
 6 =
 
-F Mû
-nD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\InvalidOperationPeanutException.cs
+F M´
+{D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\InvalidOperationPeanutException.cs
 
  0
 
@@ -526,8 +526,8 @@ nD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Inv
 
 6 =
 
-F Mñ
-fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\NotFoundClientException.cs
+F M£
+sD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\NotFoundClientException.cs
 
  (
 
@@ -538,8 +538,8 @@ fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Not
 
 . 5
 
-> Eñ
-fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\NotFoundPeanutException.cs
+> E£
+sD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Exceptions\NotFoundPeanutException.cs
 
  (
 
@@ -550,8 +550,8 @@ fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Exceptions\Not
 
 . 5
 
-> E¸
-kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Migrations\20210617023108_InitialCreate.cs
+> Eâ
+xD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Migrations\20210617023108_InitialCreate.cs
 
  &
 
@@ -662,13 +662,13 @@ kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Migrations\202
 ää 
 çç 
 êê 
-ìì t
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\ClientFormModel.cs
+ìì Å
+gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\ClientFormModel.cs
 
 		  
 
- ‹
-VD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\ClientModel.cs
+ È
+cD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\ClientModel.cs
 
 		 
 
@@ -690,8 +690,8 @@ VD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\ClientM
 
  #
 
- |
-VD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\DeleteModel.cs
+ â
+cD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\DeleteModel.cs
 
  
 
@@ -699,13 +699,13 @@ VD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\DeleteM
 
  
 
- t
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\PeanutFormModel.cs
+ Å
+gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\PeanutFormModel.cs
 
 		  
 
- Ë
-VD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\PeanutModel.cs
+ ı
+cD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\PeanutModel.cs
 
 		 
 
@@ -729,22 +729,22 @@ VD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\PeanutM
 
  ,
 
- z
-`D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\PeanutWithClientModel.cs
+ á
+mD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\PeanutWithClientModel.cs
 
  &
 
 
 
-( /ç
-gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\CreateRoleViewModel.cs
+( /ö
+tD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\Security\CreateRoleViewModel.cs
 
 		 $
 
  
 
- $ë
-kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\CreateUserRoleViewModel.cs
+ $û
+xD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\Security\CreateUserRoleViewModel.cs
 
  (
 
@@ -752,15 +752,15 @@ kD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Securit
 
  
 
- à
-bD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\LoginViewModel.cs
+ ï
+oD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\Security\LoginViewModel.cs
 
 		 
 
  
 
- ó
-eD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\RegisterViewModel.cs
+ §
+rD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\Security\RegisterViewModel.cs
 
 		 "
 
@@ -768,8 +768,8 @@ eD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Securit
 
  
 
- %•
-gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\UserManagerResponse.cs
+ %≤
+tD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Models\Security\UserManagerResponse.cs
 
  $
 
@@ -781,21 +781,21 @@ gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Securit
 
 # )
 
- #Ω
-KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs
+ # 
+XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Program.cs
 
- 
+ 
 
  
 ) - "
 # 4 
 > B& *
-* 4 µ
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs
+* 4 ¬
+gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\ClientService.cs
 
  å
 " 3   0"" #)) #** 055 0BB 0OO  1VV #WW #XX 0bb 0P
-! (  &## :: %GG %PP VVD K
+   &## :: %GG %PP VVD K
 
  
 / ?  0
@@ -843,8 +843,8 @@ ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Clien
 nn? Gpp0 8
 nnN Vpp: B
 
-pp ‘
-XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\FileService.cs
+pp ·
+eD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\FileService.cs
 
 
 
@@ -858,8 +858,8 @@ XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\FileS
   = F
  8 @5 =
  3 ;
- !  &ù
-[D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IClientService.cs
+ !  &™
+hD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\IClientService.cs
 
 		 #
 
@@ -891,15 +891,15 @@ XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\FileS
 
 G I
 
-W c
-YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IFileService.cs
+W cå
+fD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\IFileService.cs
 
  !
 
  
 
-$ (©
-[D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IPeanutService.cs
+$ (∂
+hD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\IPeanutService.cs
 
 		 #
 
@@ -933,14 +933,14 @@ YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IFile
 
 7 ?
 
-G M’
+G M‚
 
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\PeanutService.cs
+gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\PeanutService.cs
 
  Ç
-+ <    !! 0,, #-- 077 0AA 0NN# 4VV 0ee #ff 0}}% 6x
+" 3    !! 0,, #-- 077 0AA 0NN# 4VV 0ee #ff 0}}% 6x
    &  + 2$$ << FF !OO #WW ee@ Gkk ~~ # 
-) >LL &
+  5LL &
 MM© æ
 
  
@@ -989,8 +989,8 @@ ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Peanu
 ~~  
 
 ÇÇ4 <
-ÑÑ! )–
-bD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Security\IUserService.cs
+ÑÑ! )›
+oD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\Security\IUserService.cs
 
 		 !
 
@@ -1008,18 +1008,18 @@ bD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Secur
 
 " 5
 
-N SÙ
-aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Security\UserService.cs
+N SÅ	
+nD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Services\Security\UserService.cs
 
  `
-3 >  (** *33 )hh *
+* 5  (** *33 )hh *
 §§ (
 ÆÆ !
 ∑∑ *,
-3 > 
+* 5 
 ÑÑ *
 öö (2
-( 5 AAF SDD %EE '
+ , AAF SDD %EE '
 
  
 5 @ *
@@ -1074,8 +1074,8 @@ aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Secur
 ∑∑: >
 
 ∑∑ 
-ππ ≥
-KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Startup.cs
+ππ ¿
+XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsWithouthCorrection\McNutsAPI\Startup.cs
  ..* 1
 
  

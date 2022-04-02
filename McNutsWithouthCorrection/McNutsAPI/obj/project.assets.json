@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIVERSIDAD 2021\\I-2021\\TECNOLOGIAS WEB\\TAREAS REALIZADAS\\ProyectoTecWebOficial Oficial\\McNutsAPI\\McNutsAPI\\McNutsAPI.csproj",
+      "projectUniqueName": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsWithouthCorrection\\McNutsAPI\\McNutsAPI.csproj",
       "projectName": "McNutsAPI",
-      "projectPath": "D:\\UNIVERSIDAD 2021\\I-2021\\TECNOLOGIAS WEB\\TAREAS REALIZADAS\\ProyectoTecWebOficial Oficial\\McNutsAPI\\McNutsAPI\\McNutsAPI.csproj",
+      "projectPath": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsWithouthCorrection\\McNutsAPI\\McNutsAPI.csproj",
       "packagesPath": "C:\\Users\\Juan Luis\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIVERSIDAD 2021\\I-2021\\TECNOLOGIAS WEB\\TAREAS REALIZADAS\\ProyectoTecWebOficial Oficial\\McNutsAPI\\McNutsAPI\\obj\\",
+      "outputPath": "D:\\CalidadFinal\\StaticBackendAnalysisFinal\\McNutsWithouthCorrection\\McNutsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6324,7 +6324,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
