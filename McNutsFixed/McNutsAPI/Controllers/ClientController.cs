@@ -15,7 +15,7 @@ namespace McNutsAPI.Controllers
     public class ClientsController : ControllerBase
     {
         private readonly IClientService _clientService;
-        private IFileService _fileService;
+        private readonly IFileService _fileService;
 
 
         public ClientsController(IClientService clientsService, IFileService fileService)

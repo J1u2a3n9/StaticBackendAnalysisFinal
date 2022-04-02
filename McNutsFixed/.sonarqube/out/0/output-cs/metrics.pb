@@ -57,18 +57,18 @@ eD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Securit
 gD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Models\Security\UserManagerResponse.cs 8r	
 v
 KD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Program.cs 8r
-ÇÉ
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs/ 
-8rj	 !"#$%'()*+,-./013456789:;<=>@ABCDEFGHIJKMNOPQRTUVWXYZ[\]^_abcdefghjklmopqrstxÇ.!#$)*+,.05679;<=BCDFHIJOPQVWXYZ\^cdflqó
+ÇÖ
+ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs1 
+8rl	 !"#$%'()*+,-./012456789:;<=>?ABCDEFGHIJKLNOPQRSUVWXYZ[\]^_`acdefghijlmnoqrstuvxÇ.!#$)*+,/1678:<=>CDEGIJKPQRWXYZ[^`efhnsó
 XD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\FileService.cs 8r"	
  "#$%xÇ"q
 [D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IClientService.csr	
 g
 YD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IFileService.csr	w
 [D:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\IPeanutService.csjr	
-•
-ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\PeanutService.cs2 
-8jârÇ	 !"#$%&')*+,-./012356789:;<=?@ABCDEFGHJKLMNOPQSTUVWY[\]^_`acdefghijklnopqrsuvwxyz{|}~ÄÇÉÑÖäãxÇ3 !"$&+,-.0278:<ABDFGLMNOPUVW]^_adefgikpqsxz}~Ñw
+Æ
+ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\PeanutService.cs5 
+8jårà	 !"#$%&'(*+,-./012345789:;<=>?ABCDEFGHIJLMNOPQRSUVWXY[]^_`abcefghijklmnoqrstuvxyz{|}~ÄÅÇÉÖÜáàçéxÇ6 !"$',-./249:<>CDFHINOPQRWXY_`acfghilnstv{}ÄÅÇáw
 bD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Security\IUserService.csr	
 †
 aD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Security\UserService.cs+ 8rË	
