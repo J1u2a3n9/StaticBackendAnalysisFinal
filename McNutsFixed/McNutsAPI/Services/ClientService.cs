@@ -43,7 +43,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new Exception("DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return true;
         }
@@ -89,7 +90,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new Exception("DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return updateClient;
         }

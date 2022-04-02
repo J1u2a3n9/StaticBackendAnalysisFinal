@@ -35,7 +35,8 @@ namespace McNutsAPI.Services
             {
                 return _mapper.Map<PeanutModel>(peanutEntity);
             }
-            throw new Exception("Database Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
         }
 
         public async Task<bool> DeletePeanutAsync(long peanutId)
@@ -45,7 +46,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new Exception("DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return true;
         }
@@ -102,7 +104,8 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new Exception("DataBase Error");
+                string dataMessage="DataBase Error";
+                throw new ArgumentNullException(dataMessage);
             }
             return _mapper.Map<PeanutModel>(updatePeanut);
         }

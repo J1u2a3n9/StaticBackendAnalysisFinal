@@ -7764,7 +7764,7 @@ UseStartup )
 ) 
 ; 
 } 
-} äV
+} ÷V
 ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\ClientService.cs
 	namespace 	
 	McNutsAPI
@@ -7865,25 +7865,25 @@ ZD:\CalidadFinal\StaticBackendAnalysisFinal\McNutsFixed\McNutsAPI\Services\Clien
 SaveChangesAsync1 A
 (A B
 )B C
-;C D
-var 
-	exception 
-= 
-$str +
-;+ ,
-if 
-( 
-! 
-result 
-) 
-{   
+;C D
+if 
+( 
+! 
+result 
+) 
+{ 
+string   
+dataMessage   "
+=  " #
+$str  # 3
+;  3 4
 throw!! 
-new!! 
-	Exception!! #
-(!!# $
-	exception!!$ -
-)!!- .
-;!!. /
+new!! !
+ArgumentNullException!! /
+(!!/ 0
+dataMessage!!0 ;
+)!!; <
+;!!< =
 }"" 
 await## 
 _peanutRepository## #
