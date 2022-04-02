@@ -1,6 +1,0 @@
-projectKey=StaticBackendAnalysisFinal
-serverUrl=http://localhost:9000
-serverVersion=9.3.0.51899
-dashboardUrl=http://localhost:9000/dashboard?id=StaticBackendAnalysisFinal
-ceTaskId=AX_o-cKlhmx-MaNJtXl9
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AX_o-cKlhmx-MaNJtXl9
